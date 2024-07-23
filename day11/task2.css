@@ -1,0 +1,102 @@
+.d2{
+
+    background-color: aqua;
+    height: 100px;
+    width: 30%;
+    position: relative;
+    top: 60px;
+    left: 60px;
+    z-index: 1;
+   
+
+}
+.d3{
+        background-color: aqua;
+        height: 100px;
+        width: 30%;
+        position: absolute;
+        top: 40px;
+        left: 40px;
+      opacity: 0.6;
+}
+.d1{
+    background-color: aqua;
+    height: 100px;
+    width: 30%;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+   
+    opacity: 0.5;
+}
+.main{
+    background-color: white;
+    height: 1000px;
+    width: 100%;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    z-index: 1;
+    opacity: 0.5;
+}
+.c1{
+    background-color: rgb(14, 179, 66);
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 30px;
+    left: 700px;
+    z-index: 1;
+    opacity: 0.6;
+    border-radius: 50%;
+}
+.c2{
+    background-color: rgb(14, 179, 66);
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 30px;
+    left: 750px;
+    z-index: 1;
+   
+    border-radius: 50%;
+}
+.c3{
+    background-color: rgb(14, 179, 66);
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 30px;
+    left: 650px;
+    opacity: 0.5;
+    border-radius: 50%;
+}
+.s1{
+    background-color: rgb(241, 74, 241);
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 300px;
+    left: 600px;
+    
+}
+.s2{
+    background-color: rgb(221, 102, 221);
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 300px;
+    left: 600px;
+    opacity: 0.7;
+    transform: rotate(10deg);
+}
+.s3{
+    background-color: rgb(225, 107, 225);
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 300px;
+    left: 600px;
+    opacity: 0.3;
+    transform: rotate(30deg);
+}

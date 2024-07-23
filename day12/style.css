@@ -1,0 +1,48 @@
+.div1{
+    height: 140px;
+    width: 100%;
+    border: 3px solid red;
+    background-color: aqua;
+}
+/* for android */
+@media (min-width:414px ) and (max-width:896px) {
+    #d2{
+        background-color: red;
+        font-size: 70px;
+        font-family:cursive;
+ 
+    }
+
+}
+/* for ios */
+@media (min-width:896px ) and (max-width:1284px) {
+    #d3{
+        background-color: blue;
+        font-size: 70px;
+        font-family:cursive;
+        color: white;
+
+    }
+
+}
+/* for desktop */
+@media (min-width:1284px ) and (max-width:1920px) {
+    #d4{
+        background-color: yellow;
+        font-size: 70px;
+        font-family:cursive;
+
+    }
+
+}
+/* for wide-screen */
+@media (min-width:1920px ) and (max-width:5120px) {
+    #d1{
+        background-color:green;
+        font-size: 70px;
+        font-family:cursive;
+        
+    }
+
+}
+

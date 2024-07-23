@@ -1,0 +1,32 @@
+h1{
+    background-color: red;
+}
+.main{
+    /* display: flex; */
+    height: 580px;
+    width: 100%;
+    border: 3px solid black;
+}
+.d1{
+    height: 190px;
+    width: 100%;
+    border: 2px solid red;
+    display: flex;
+}
+.d2{
+    height: 190px;
+    width: 50%;
+    border: 2px solid green;
+}
+#id2{
+    background-color: aqua;
+}
+#id3{
+    background-color: rgb(242, 109, 32);
+}
+#id{
+    background-color: rgb(0, 255, 128);
+}
+#id1{
+    background-color: rgb(255, 242, 0);
+}

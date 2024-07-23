@@ -1,0 +1,25 @@
+.d1{
+    height: 100px ;
+    width: 100px;
+    color: black;
+    border: 10px double red;
+    margin: auto;
+    margin-top: 230px;
+    border-radius: 15px;
+    padding-left: 35px;    
+    padding-right: 70px;    
+    padding-top: 55px;
+    font-style: italic;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-weight: bolder;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: 4px 4px 5px;
+    text-overflow:clip;
+    text-align: center;
+    text-indent: 5px;
+    word-spacing: normal;
+    letter-spacing: 5px;
+    line-height: normal;
+}

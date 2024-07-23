@@ -1,0 +1,40 @@
+.main{
+    height: 1000px;
+    width: 100%;
+}
+.d1{
+    height: 250px;
+    width: 30%;
+    background-color: aqua;
+    position: relative;
+    left: 50px;
+    top: 50px;
+    z-index: 1;
+}
+.d2{
+    height: 250px;
+    width: 30%;
+    background-color: rgb(255, 30, 0);
+    position: absolute;
+    top: 1px;
+    opacity: 0.3;
+    z-index: 0;
+
+
+}
+.hy{
+    position: absolute;
+    top: 5px;
+    font-size: 30px;
+    font-family: cursive;
+}
+.op{
+    position: absolute;
+    left: 12%;
+    top: 200px;
+    font-size: 20px;
+    font-family: cursive;
+}
+.d1:hover{
+    opacity: 0.4;
+}

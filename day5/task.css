@@ -1,0 +1,89 @@
+.main{
+    height: 580px;
+    width: 100%;
+    border: 3px solid black;
+}
+.d1{
+    height: 100px;
+    width: 100%;
+    border: 2px solid red;
+    display: flex;
+}
+.d2{
+    height: 100px;
+    width: 50%;
+    border: 2px solid green;
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.d3{
+ height: 370px;
+ width: 100%;
+ border: 2px solid red;
+ display: flex;
+
+}
+.d4{
+    height:370px;
+    width: 20%;
+    border: 2px solid red;
+    background-image: url(https://th.bing.com/th/id/OIP.PYipJ_hSncugM2SwnZitvgHaEK?w=278&h=180&c=7&r=0&o=5&dpr=1.6&pid=1.7);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.d5{
+    height: 370px;
+    width: 80%;
+    border: 2px solid red;
+}
+.d6{
+    height: 121px;
+    width: 100%;
+    border: 2px solid green;
+    display: flex;
+}
+.d7{
+    height: 121px;
+    width: 33%;
+    border: 2px solid yellow;
+ 
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.d8{
+    height: 121px;
+    border: 2px solid yellow;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+#id{
+    width:40% ;
+}
+#id1{
+    width: 30% ;
+}
+#id2{
+    width: 30% ;
+}
+#id3{
+    width:30% ;
+}
+#id4{
+    width: 30% ;
+}
+#id5{
+    width:40%;
+}
+#d11{
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}

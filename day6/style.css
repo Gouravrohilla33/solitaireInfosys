@@ -1,0 +1,42 @@
+h1{
+    /* background-color: aqua; */
+    background-image: url(creative\ poster\ design.jpeg);
+    height: 500px;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: white;
+    
+}
+p{
+    border: 5px double red;
+    height: 100px;
+    width: 230px;
+    border-radius: 10px;
+    padding: 5px;
+
+}
+h2{
+    border-bottom: 5px solid lightgreen;
+    border-left: 5px solid lightcoral;
+    border-top: 5px solid lightblue;
+    border-right: 5px solid yellow;
+    border-radius: 20px;
+    padding: 10px;
+    font-family: cursive;
+}
+th{
+    border-bottom: 4px solid green;
+    border-right: 4px solid green;
+
+}
+td{
+    border-bottom: 4px solid orange;
+    border-right: 4px solid orange;
+}
+.td{
+    border-bottom: none;
+}
+.tr{
+    border-right: none;
+}
